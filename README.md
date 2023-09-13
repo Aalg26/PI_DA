@@ -1,7 +1,7 @@
 
 # Siniestros Viales en Buenos Aires: Una Mirada a la Seguridad Vial en la Ciudad
 
-![App Screenshot](https://www.portafolio.co/files/article_new_multimedia/uploads/2023/06/16/648c7edc9fc7d.jpeg)
+![imagen presentacion](https://www.portafolio.co/files/article_new_multimedia/uploads/2023/06/16/648c7edc9fc7d.jpeg)
 
 
 
@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo fundamental analizar datos relacionados con ho
 
 ## Tecnologias y herramientas
 
-AEl proyecto se desarrolló utilizando las siguientes tecnologías y herramientas: 
+El proyecto se desarrolló utilizando las siguientes tecnologías y herramientas: 
 
 - [![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - [![Pandas](https://img.shields.io/badge/Pandas-1.0%20%7C%201.1%20%7C%201.2%20%7C%201.3-green?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -84,7 +84,7 @@ Al analizar los tipos de vías, notamos que las autopistas muestran la menor can
 El análisis detallado de los datos revela una serie de tendencias y patrones significativos en los siniestros viales en Buenos Aires. Estas conclusiones proporcionan información valiosa para las autoridades locales y pueden ayudar a guiar la toma de decisiones y la implementación de políticas de seguridad vial más efectivas. Es esencial seguir investigando y monitoreando estos datos para trabajar en la reducción de accidentes y salvar vidas en las carreteras de la ciudad
 
 # Cómo Contribuir
-Estoy dispuesto a recibir datos relevantes para el proyecto a través de mis redes sociales, como LinkedIn y Discord. Tu contribución puede ayudar a mejorar la calidad y la precisión del análisis, lo que, a su vez, podría tener un impacto positivo en la seguridad vial en Buenos Aires.
+Estoy dispuesto a recibir datos relevantes para el proyecto a través de mis redes sociales, como [LinkedIn](https://www.linkedin.com/in/adri%C3%A1nle%C3%B3ngracia/) y Discord. Tu contribución puede ayudar a mejorar la calidad y la precisión del análisis, lo que, a su vez, podría tener un impacto positivo en la seguridad vial en Buenos Aires.
 
 Este análisis es solo el comienzo, y la colaboración de la comunidad puede ser fundamental para crear soluciones efectivas que salven vidas en las carreteras de la ciudad.
 # Documentación
