@@ -80,14 +80,14 @@ Se observa que gran cantidad de los siniestros viales mortales ocurren en el mes
 ## Tipos de Vías
 Al analizar los tipos de vías, notamos que las autopistas muestran la menor cantidad de siniestros mortales. Esto podría deberse a una mejor planificación de la seguridad vial en las autopistas. Este hallazgo sugiere la necesidad de implementar estrategias similares en otras áreas con tasas de accidentes más altas.
 
-## Conclusiones
+# Conclusiones
 El análisis detallado de los datos revela una serie de tendencias y patrones significativos en los siniestros viales en Buenos Aires. Estas conclusiones proporcionan información valiosa para las autoridades locales y pueden ayudar a guiar la toma de decisiones y la implementación de políticas de seguridad vial más efectivas. Es esencial seguir investigando y monitoreando estos datos para trabajar en la reducción de accidentes y salvar vidas en las carreteras de la ciudad
 
-## Cómo Contribuir
+# Cómo Contribuir
 Estoy dispuesto a recibir datos relevantes para el proyecto a través de mis redes sociales, como LinkedIn y Discord. Tu contribución puede ayudar a mejorar la calidad y la precisión del análisis, lo que, a su vez, podría tener un impacto positivo en la seguridad vial en Buenos Aires.
 
 Este análisis es solo el comienzo, y la colaboración de la comunidad puede ser fundamental para crear soluciones efectivas que salven vidas en las carreteras de la ciudad.
-## Documentación
+# Documentación
 
 [municipio.json](https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG)
 
