@@ -73,7 +73,9 @@ En cuanto a las cámaras de control vehicular, encontramos que la comuna 13 es l
 ![control vehicular](https://i.imgur.com/dZjzCW3.png)
 ## Cambios en las Muertes Anuales
 Es interesante destacar que hubo una disminución en el número de muertes anuales en el año 2020. Este fenómeno podría estar relacionado con las restricciones de movilidad impuestas debido a la pandemia de COVID-19. Esto plantea la pregunta de si algunas de estas restricciones deberían mantenerse o modificarse para mantener una disminución en la tasa de accidentes mortales.
+
 ![muertes anuales](https://i.imgur.com/oHNP2vI.png)
+
 ## Meses de Mayor Riesgo
 Se observa que gran cantidad de los siniestros viales mortales ocurren en el mes de diciembre. Esto podría estar relacionado con las festividades y el aumento de la movilidad durante las vacaciones. La información destaca la importancia de aumentar la vigilancia y la concienciación durante estos períodos festivos.
 ![muertes por mes](https://i.imgur.com/2lzvr4I.png)
